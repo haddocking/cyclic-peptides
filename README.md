@@ -6,7 +6,7 @@ To be published.
 
 Content
 1.  Dataset
-	Directory composed by sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. Also contains the required script for the analysis.
+	Directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
 	
 	a. Each complex sub-directory contains: 
 
