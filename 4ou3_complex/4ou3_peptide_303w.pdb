@@ -1,0 +1,92 @@
+REMARK FILENAME="4ou3_peptide_303w.pdb0"
+REMARK ===============================================================
+REMARK HADDOCK run for 4ou3_peptide
+REMARK initial structure: 4ou3_peptide_303.pdb
+REMARK ===============================================================
+REMARK            total,bonds,angles,improper,dihe,vdw,elec,air,cdih,coup,rdcs,vean,dani,xpcs,rg
+REMARK energies: -111.142, 0.478923, 1.42325, 0.517966, 0, -3.34852, -134.78, 0, 0, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK            bonds,angles,impropers,dihe,air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK rms-dev.: 3.034809E-03,0.360257,0.359333,46.5893,221,0,0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK               air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK               >0.3,>5,>1,>0,>5,>0.2,>0.2
+REMARK violations.: 0, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK                        CVpartition#,violations,rms
+REMARK AIRs cross-validation: 0, 0, 0
+REMARK ===============================================================
+REMARK NCS energy: 0
+REMARK ===============================================================
+REMARK Symmetry energy: 0
+REMARK ===============================================================
+REMARK Membrane restraining energy: 0
+REMARK ===============================================================
+REMARK Local cross-correlation:  0.0000
+REMARK ===============================================================
+REMARK Desolvation energy: 0
+REMARK Internal energy free molecules: -111.142
+REMARK Internal energy complex: -111.142
+REMARK Binding energy: 0
+REMARK ===============================================================
+REMARK buried surface area: 0
+REMARK ===============================================================
+REMARK water - chain_1: 0 0 0
+REMARK ===============================================================
+REMARK water - water: 0 0 0
+REMARK ===============================================================
+REMARK DATE:27-Jul-2021  08:43:46       created by user: charitou
+REMARK VERSION:1.3U
+ATOM      1  N   CYS A   1       5.244  -0.879  -4.286  1.00 15.00      A    N  
+ATOM      2  HN  CYS A   1       5.634  -1.778  -4.335  1.00 15.00      A    H  
+ATOM      3  CA  CYS A   1       4.250  -0.603  -3.259  1.00 15.00      A    C  
+ATOM      4  C   CYS A   1       4.227  -1.708  -2.208  1.00 15.00      A    C  
+ATOM      5  O   CYS A   1       3.900  -2.855  -2.508  1.00 15.00      A    O  
+ATOM      6  CB  CYS A   1       2.861  -0.430  -3.882  1.00 15.00      A    C  
+ATOM      7  SG  CYS A   1       2.582   1.200  -4.651  1.00 15.00      A    S  
+ATOM      8  N   ASN A   2       4.590  -1.362  -0.980  1.00 15.00      A    N  
+ATOM      9  HN  ASN A   2       4.860  -0.435  -0.801  1.00 15.00      A    H  
+ATOM     10  CA  ASN A   2       4.605  -2.330   0.107  1.00 15.00      A    C  
+ATOM     11  CB  ASN A   2       5.626  -1.938   1.180  1.00 15.00      A    C  
+ATOM     12  CG  ASN A   2       5.876  -3.052   2.180  1.00 15.00      A    C  
+ATOM     13  OD1 ASN A   2       6.753  -3.890   1.986  1.00 15.00      A    O  
+ATOM     14  ND2 ASN A   2       5.115  -3.061   3.262  1.00 15.00      A    N  
+ATOM     15 HD21 ASN A   2       4.442  -2.355   3.361  1.00 15.00      A    H  
+ATOM     16 HD22 ASN A   2       5.248  -3.781   3.918  1.00 15.00      A    H  
+ATOM     17  C   ASN A   2       3.223  -2.472   0.724  1.00 15.00      A    C  
+ATOM     18  O   ASN A   2       2.818  -1.658   1.557  1.00 15.00      A    O  
+ATOM     19  N   GLY A   3       2.498  -3.496   0.300  1.00 15.00      A    N  
+ATOM     20  HN  GLY A   3       2.867  -4.099  -0.382  1.00 15.00      A    H  
+ATOM     21  CA  GLY A   3       1.174  -3.739   0.827  1.00 15.00      A    C  
+ATOM     22  C   GLY A   3       0.153  -2.737   0.336  1.00 15.00      A    C  
+ATOM     23  O   GLY A   3      -0.246  -2.764  -0.829  1.00 15.00      A    O  
+ATOM     24  N   ARG A   4      -0.263  -1.843   1.224  1.00 15.00      A    N  
+ATOM     25  HN  ARG A   4       0.101  -1.874   2.136  1.00 15.00      A    H  
+ATOM     26  CA  ARG A   4      -1.256  -0.833   0.888  1.00 15.00      A    C  
+ATOM     27  CB  ARG A   4      -2.010  -0.364   2.135  1.00 15.00      A    C  
+ATOM     28  CG  ARG A   4      -3.057  -1.347   2.644  1.00 15.00      A    C  
+ATOM     29  CD  ARG A   4      -4.171  -1.560   1.629  1.00 15.00      A    C  
+ATOM     30  NE  ARG A   4      -3.799  -2.506   0.578  1.00 15.00      A    N  
+ATOM     31  HE  ARG A   4      -3.190  -3.241   0.826  1.00 15.00      A    H  
+ATOM     32  CZ  ARG A   4      -4.242  -2.433  -0.676  1.00 15.00      A    C  
+ATOM     33  NH1 ARG A   4      -5.071  -1.459  -1.038  1.00 15.00      A    N  
+ATOM     34 HH11 ARG A   4      -5.417  -1.397  -2.021  1.00 15.00      A    H  
+ATOM     35 HH12 ARG A   4      -5.383  -0.750  -0.340  1.00 15.00      A    H  
+ATOM     36  NH2 ARG A   4      -3.855  -3.333  -1.566  1.00 15.00      A    N  
+ATOM     37 HH21 ARG A   4      -3.203  -4.098  -1.285  1.00 15.00      A    H  
+ATOM     38 HH22 ARG A   4      -4.205  -3.287  -2.547  1.00 15.00      A    H  
+ATOM     39  C   ARG A   4      -0.647   0.354   0.153  1.00 15.00      A    C  
+ATOM     40  O   ARG A   4      -1.375   1.179  -0.399  1.00 15.00      A    O  
+ATOM     41  N   CYS A   5       0.684   0.433   0.147  1.00 15.00      A    N  
+ATOM     42  HN  CYS A   5       1.204  -0.260   0.608  1.00 15.00      A    H  
+ATOM     43  CA  CYS A   5       1.392   1.523  -0.523  1.00 15.00      A    C  
+ATOM     44  C   CYS A   5       1.024   2.867   0.103  1.00 15.00      A    C  
+ATOM     45  O   CYS A   5       0.278   3.656  -0.477  1.00 15.00      A    O  
+ATOM     46  CB  CYS A   5       1.085   1.522  -2.028  1.00 15.00      A    C  
+ATOM     47  SG  CYS A   5       2.285   2.427  -3.060  1.00 15.00      A    S  
+ATOM     48  N   GLY A   6       1.529   3.108   1.305  1.00 15.00      A    N  
+ATOM     49  HN  GLY A   6       2.098   2.435   1.732  1.00 15.00      A    H  
+ATOM     50  CA  GLY A   6       1.241   4.348   1.998  1.00 15.00      A    C  
+ATOM     51  C   GLY A   6       0.086   4.193   2.966  1.00 15.00      A    C  
+ATOM     52  O   GLY A   6      -0.319   3.065   3.278  1.00 15.00      A    O  
+END
