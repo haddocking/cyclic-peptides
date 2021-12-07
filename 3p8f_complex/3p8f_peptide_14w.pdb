@@ -1,0 +1,166 @@
+REMARK FILENAME="3p8f_peptide_14w.pdb0"
+REMARK ===============================================================
+REMARK HADDOCK run for 3p8f_peptide
+REMARK initial structure: 3p8f_peptide_14.pdb
+REMARK ===============================================================
+REMARK            total,bonds,angles,improper,dihe,vdw,elec,air,cdih,coup,rdcs,vean,dani,xpcs,rg
+REMARK energies: -335.85, 2.03821, 7.0895, 1.91136, 0, -11.6009, -399.448, 0, 0, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK            bonds,angles,impropers,dihe,air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK rms-dev.: 3.944469E-03,0.496266,0.465606,41.6122,388,0,0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK               air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK               >0.3,>5,>1,>0,>5,>0.2,>0.2
+REMARK violations.: 0, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK                        CVpartition#,violations,rms
+REMARK AIRs cross-validation: 0, 0, 0
+REMARK ===============================================================
+REMARK NCS energy: 0
+REMARK ===============================================================
+REMARK Symmetry energy: 0
+REMARK ===============================================================
+REMARK Membrane restraining energy: 0
+REMARK ===============================================================
+REMARK Local cross-correlation:  0.0000
+REMARK ===============================================================
+REMARK Desolvation energy: 0
+REMARK Internal energy free molecules: -335.85
+REMARK Internal energy complex: -335.85
+REMARK Binding energy: 0
+REMARK ===============================================================
+REMARK buried surface area: 0
+REMARK ===============================================================
+REMARK water - chain_1: 0 0 0
+REMARK ===============================================================
+REMARK water - water: 0 0 0
+REMARK ===============================================================
+REMARK DATE:23-Jul-2021  11:35:02       created by user: charitou
+REMARK VERSION:1.3U
+ATOM      1  N   GLY A  21      -8.180  -1.083  -0.694  1.00 15.00      A    N  
+ATOM      2  HN  GLY A  21      -7.416  -1.647  -0.442  1.00 15.00      A    H  
+ATOM      3  CA  GLY A  21      -8.087  -0.222  -1.856  1.00 15.00      A    C  
+ATOM      4  C   GLY A  21      -7.125   0.927  -1.644  1.00 15.00      A    C  
+ATOM      5  O   GLY A  21      -7.395   2.058  -2.047  1.00 15.00      A    O  
+ATOM      6  N   ARG A  22      -5.996   0.642  -1.012  1.00 15.00      A    N  
+ATOM      7  HN  ARG A  22      -5.822  -0.280  -0.731  1.00 15.00      A    H  
+ATOM      8  CA  ARG A  22      -4.995   1.665  -0.742  1.00 15.00      A    C  
+ATOM      9  CB  ARG A  22      -5.112   2.162   0.700  1.00 15.00      A    C  
+ATOM     10  CG  ARG A  22      -6.278   3.106   0.945  1.00 15.00      A    C  
+ATOM     11  CD  ARG A  22      -6.034   4.467   0.318  1.00 15.00      A    C  
+ATOM     12  NE  ARG A  22      -6.426   4.511  -1.087  1.00 15.00      A    N  
+ATOM     13  HE  ARG A  22      -6.870   3.706  -1.461  1.00 15.00      A    H  
+ATOM     14  CZ  ARG A  22      -6.236   5.566  -1.877  1.00 15.00      A    C  
+ATOM     15  NH1 ARG A  22      -5.666   6.670  -1.397  1.00 15.00      A    N  
+ATOM     16 HH11 ARG A  22      -5.352   6.714  -0.402  1.00 15.00      A    H  
+ATOM     17 HH12 ARG A  22      -5.527   7.496  -2.017  1.00 15.00      A    H  
+ATOM     18  NH2 ARG A  22      -6.626   5.524  -3.141  1.00 15.00      A    N  
+ATOM     19 HH21 ARG A  22      -7.077   4.665  -3.521  1.00 15.00      A    H  
+ATOM     20 HH22 ARG A  22      -6.481   6.348  -3.763  1.00 15.00      A    H  
+ATOM     21  C   ARG A  22      -3.594   1.135  -0.998  1.00 15.00      A    C  
+ATOM     22  O   ARG A  22      -3.231   0.066  -0.509  1.00 15.00      A    O  
+ATOM     23  N   CYS A  23      -2.814   1.871  -1.770  1.00 15.00      A    N  
+ATOM     24  HN  CYS A  23      -3.162   2.705  -2.149  1.00 15.00      A    H  
+ATOM     25  CA  CYS A  23      -1.453   1.468  -2.076  1.00 15.00      A    C  
+ATOM     26  C   CYS A  23      -0.475   2.550  -1.631  1.00 15.00      A    C  
+ATOM     27  O   CYS A  23      -0.467   3.652  -2.185  1.00 15.00      A    O  
+ATOM     28  CB  CYS A  23      -1.298   1.210  -3.574  1.00 15.00      A    C  
+ATOM     29  SG  CYS A  23      -2.407  -0.071  -4.248  1.00 15.00      A    S  
+ATOM     30  N   THR A  24       0.322   2.245  -0.618  1.00 15.00      A    N  
+ATOM     31  HN  THR A  24       0.251   1.362  -0.202  1.00 15.00      A    H  
+ATOM     32  CA  THR A  24       1.298   3.189  -0.105  1.00 15.00      A    C  
+ATOM     33  CB  THR A  24       1.661   2.869   1.357  1.00 15.00      A    C  
+ATOM     34  OG1 THR A  24       0.525   2.273   2.008  1.00 15.00      A    O  
+ATOM     35  HG1 THR A  24       0.783   1.979   2.889  1.00 15.00      A    H  
+ATOM     36  CG2 THR A  24       2.052   4.143   2.095  1.00 15.00      A    C  
+ATOM     37  C   THR A  24       2.556   3.160  -0.965  1.00 15.00      A    C  
+ATOM     38  O   THR A  24       3.392   2.265  -0.835  1.00 15.00      A    O  
+ATOM     39  N   LYS A  25       2.679   4.137  -1.857  1.00 15.00      A    N  
+ATOM     40  HN  LYS A  25       1.976   4.825  -1.913  1.00 15.00      A    H  
+ATOM     41  CA  LYS A  25       3.825   4.216  -2.757  1.00 15.00      A    C  
+ATOM     42  CB  LYS A  25       3.474   5.032  -4.005  1.00 15.00      A    C  
+ATOM     43  CG  LYS A  25       4.316   4.696  -5.228  1.00 15.00      A    C  
+ATOM     44  CD  LYS A  25       3.920   3.360  -5.836  1.00 15.00      A    C  
+ATOM     45  CE  LYS A  25       2.537   3.426  -6.458  1.00 15.00      A    C  
+ATOM     46  NZ  LYS A  25       2.207   2.188  -7.215  1.00 15.00      A    N  
+ATOM     47  HZ1 LYS A  25       2.228   1.362  -6.581  1.00 15.00      A    H  
+ATOM     48  HZ2 LYS A  25       2.895   2.040  -7.976  1.00 15.00      A    H  
+ATOM     49  HZ3 LYS A  25       1.257   2.265  -7.633  1.00 15.00      A    H  
+ATOM     50  C   LYS A  25       5.046   4.808  -2.054  1.00 15.00      A    C  
+ATOM     51  O   LYS A  25       6.176   4.667  -2.525  1.00 15.00      A    O  
+ATOM     52  N   SER A  26       4.813   5.469  -0.924  1.00 15.00      A    N  
+ATOM     53  HN  SER A  26       3.893   5.573  -0.611  1.00 15.00      A    H  
+ATOM     54  CA  SER A  26       5.892   6.071  -0.148  1.00 15.00      A    C  
+ATOM     55  CB  SER A  26       5.299   6.890   0.997  1.00 15.00      A    C  
+ATOM     56  OG  SER A  26       3.951   7.242   0.719  1.00 15.00      A    O  
+ATOM     57  HG  SER A  26       3.710   8.026   1.231  1.00 15.00      A    H  
+ATOM     58  C   SER A  26       6.827   4.996   0.411  1.00 15.00      A    C  
+ATOM     59  O   SER A  26       8.024   5.226   0.612  1.00 15.00      A    O  
+ATOM     60  N   ILE A  27       6.267   3.821   0.655  1.00 15.00      A    N  
+ATOM     61  HN  ILE A  27       5.316   3.697   0.457  1.00 15.00      A    H  
+ATOM     62  CA  ILE A  27       7.024   2.700   1.193  1.00 15.00      A    C  
+ATOM     63  CB  ILE A  27       6.385   2.192   2.507  1.00 15.00      A    C  
+ATOM     64  CG1 ILE A  27       4.959   1.696   2.267  1.00 15.00      A    C  
+ATOM     65  CG2 ILE A  27       6.403   3.286   3.566  1.00 15.00      A    C  
+ATOM     66  CD1 ILE A  27       4.373   0.939   3.438  1.00 15.00      A    C  
+ATOM     67  C   ILE A  27       7.064   1.573   0.154  1.00 15.00      A    C  
+ATOM     68  O   ILE A  27       6.512   1.737  -0.937  1.00 15.00      A    O  
+ATOM     69  N   PRO A  28       7.741   0.440   0.449  1.00 15.00      A    N  
+ATOM     70  CA  PRO A  28       7.816  -0.707  -0.473  1.00 15.00      A    C  
+ATOM     71  CB  PRO A  28       8.360  -1.824   0.413  1.00 15.00      A    C  
+ATOM     72  CG  PRO A  28       9.198  -1.116   1.417  1.00 15.00      A    C  
+ATOM     73  CD  PRO A  28       8.511   0.193   1.684  1.00 15.00      A    C  
+ATOM     74  C   PRO A  28       6.440  -1.101  -1.017  1.00 15.00      A    C  
+ATOM     75  O   PRO A  28       5.421  -0.886  -0.351  1.00 15.00      A    O  
+ATOM     76  N   PRO A  29       6.407  -1.679  -2.233  1.00 15.00      A    N  
+ATOM     77  CA  PRO A  29       5.170  -2.101  -2.904  1.00 15.00      A    C  
+ATOM     78  CB  PRO A  29       5.673  -3.026  -4.009  1.00 15.00      A    C  
+ATOM     79  CG  PRO A  29       7.018  -2.490  -4.348  1.00 15.00      A    C  
+ATOM     80  CD  PRO A  29       7.594  -1.964  -3.062  1.00 15.00      A    C  
+ATOM     81  C   PRO A  29       4.208  -2.853  -1.989  1.00 15.00      A    C  
+ATOM     82  O   PRO A  29       4.494  -3.966  -1.545  1.00 15.00      A    O  
+ATOM     83  N   ILE A  30       3.078  -2.219  -1.707  1.00 15.00      A    N  
+ATOM     84  HN  ILE A  30       2.933  -1.323  -2.077  1.00 15.00      A    H  
+ATOM     85  CA  ILE A  30       2.049  -2.806  -0.863  1.00 15.00      A    C  
+ATOM     86  CB  ILE A  30       2.363  -2.651   0.647  1.00 15.00      A    C  
+ATOM     87  CG1 ILE A  30       1.333  -3.392   1.503  1.00 15.00      A    C  
+ATOM     88  CG2 ILE A  30       2.456  -1.189   1.058  1.00 15.00      A    C  
+ATOM     89  CD1 ILE A  30       1.407  -4.898   1.374  1.00 15.00      A    C  
+ATOM     90  C   ILE A  30       0.678  -2.209  -1.184  1.00 15.00      A    C  
+ATOM     91  O   ILE A  30       0.505  -0.987  -1.206  1.00 15.00      A    O  
+ATOM     92  N   CYS A  31      -0.281  -3.075  -1.452  1.00 15.00      A    N  
+ATOM     93  HN  CYS A  31      -0.075  -4.031  -1.435  1.00 15.00      A    H  
+ATOM     94  CA  CYS A  31      -1.633  -2.652  -1.766  1.00 15.00      A    C  
+ATOM     95  C   CYS A  31      -2.627  -3.369  -0.869  1.00 15.00      A    C  
+ATOM     96  O   CYS A  31      -2.864  -4.567  -1.013  1.00 15.00      A    O  
+ATOM     97  CB  CYS A  31      -1.964  -2.904  -3.239  1.00 15.00      A    C  
+ATOM     98  SG  CYS A  31      -1.215  -1.709  -4.396  1.00 15.00      A    S  
+ATOM     99  N   PHE A  32      -3.196  -2.629   0.064  1.00 15.00      A    N  
+ATOM    100  HN  PHE A  32      -2.968  -1.675   0.118  1.00 15.00      A    H  
+ATOM    101  CA  PHE A  32      -4.164  -3.185   0.991  1.00 15.00      A    C  
+ATOM    102  CB  PHE A  32      -4.427  -2.202   2.136  1.00 15.00      A    C  
+ATOM    103  CG  PHE A  32      -3.205  -1.872   2.944  1.00 15.00      A    C  
+ATOM    104  CD1 PHE A  32      -2.521  -0.688   2.731  1.00 15.00      A    C  
+ATOM    105  CD2 PHE A  32      -2.748  -2.739   3.924  1.00 15.00      A    C  
+ATOM    106  CE1 PHE A  32      -1.395  -0.379   3.473  1.00 15.00      A    C  
+ATOM    107  CE2 PHE A  32      -1.622  -2.437   4.670  1.00 15.00      A    C  
+ATOM    108  CZ  PHE A  32      -0.949  -1.252   4.447  1.00 15.00      A    C  
+ATOM    109  C   PHE A  32      -5.463  -3.508   0.269  1.00 15.00      A    C  
+ATOM    110  O   PHE A  32      -5.914  -2.725  -0.572  1.00 15.00      A    O  
+ATOM    111  N   PRO A  33      -6.080  -4.662   0.592  1.00 15.00      A    N  
+ATOM    112  CA  PRO A  33      -7.340  -5.107  -0.028  1.00 15.00      A    C  
+ATOM    113  CB  PRO A  33      -7.743  -6.346   0.789  1.00 15.00      A    C  
+ATOM    114  CG  PRO A  33      -6.848  -6.353   1.986  1.00 15.00      A    C  
+ATOM    115  CD  PRO A  33      -5.594  -5.636   1.580  1.00 15.00      A    C  
+ATOM    116  C   PRO A  33      -8.435  -4.043   0.051  1.00 15.00      A    C  
+ATOM    117  O   PRO A  33      -9.357  -4.024  -0.762  1.00 15.00      A    O  
+ATOM    118  N   ASP A  34      -8.309  -3.151   1.028  1.00 15.00      A    N  
+ATOM    119  HN  ASP A  34      -7.548  -3.228   1.639  1.00 15.00      A    H  
+ATOM    120  CA  ASP A  34      -9.270  -2.070   1.230  1.00 15.00      A    C  
+ATOM    121  CB  ASP A  34      -8.917  -1.290   2.498  1.00 15.00      A    C  
+ATOM    122  CG  ASP A  34      -9.852  -0.130   2.756  1.00 15.00      A    C  
+ATOM    123  OD1 ASP A  34      -9.378   1.028   2.802  1.00 15.00      A    O  
+ATOM    124  OD2 ASP A  34     -11.065  -0.371   2.913  1.00 15.00      A    O  
+ATOM    125  C   ASP A  34      -9.291  -1.127   0.028  1.00 15.00      A    C  
+ATOM    126  O   ASP A  34     -10.290  -0.457  -0.232  1.00 15.00      A    O  
+END
