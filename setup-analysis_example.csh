@@ -1,7 +1,12 @@
+#Script used for Fnat and i-RMSD analysis. For every different docking the name of the run should be indicated.
+
 #!/bin/csh
 #
 source /home/abonvin/haddock2.4/haddock_configure.csh
-set runname=flex_solv_50str-MD4X-complex
+
+#Add here the name of your run
+set runname=
+
 set maxrun=1
 set counter=0
 set clean=1
