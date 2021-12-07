@@ -5,7 +5,7 @@ This is the docking benchmark described in the manuscript:
 To be published. 
 
 Content
-1.  Dataset
+Dataset
 	Directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
 	
 	a. Each complex sub-directory contains: 
@@ -39,9 +39,4 @@ Content
 
 	c. 'setup-analysis_example.csh': script to run the Fnat (and i-RMSD) analysis
 
-2. 	README_docking.md 
-	file with the optimal HADDOCK settings for cyclic peptide docking
-
-3. 	README_cyclisation.md 
-	file with the optimal HADDOCK settings for cycli peptide cyclisation
 
