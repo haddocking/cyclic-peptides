@@ -4,9 +4,8 @@ This is the docking benchmark described in the manuscript:
 'A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4'
 To be published. 
 
-Content
-Dataset
-	Directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
+Content:
+Dataset directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
 	
 	a. Each complex sub-directory contains: 
 
