@@ -13,7 +13,7 @@ Content
 		HADDOCK-ready files:
 		∙ 'XXX_r_b.pdb': Bound receptor PDB with renumbered atoms and renamed chain ID
 		∙ 'XXX_r_u.pdb': Unbound receptor PDB with renumbered atoms and renamed chain ID
-		∙ 'XXX_XXXw_l_b.pdb': Bound ligand PDB with renumbered atoms and renamed chain ID
+		∙ 'XXX_peptide_XXXw.pdb': Bound ligand PDB with renumbered atoms and renamed chain ID
 		∙ 'ensemble_pdb.list': List of all ligand PDBs that are included in the ensemble
 
 		Analysis directory named 'ana_script' that contains:
