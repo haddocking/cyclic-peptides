@@ -1,3 +1,0 @@
-assign (resid 1 and name CA) (resid 5 and name CA) 4.0 0.1 0.1
-assign (resid 1 and name SG) (resid 5 and name SG) 2.0 0.1 0.1
-assign (resid 1 and name CB) (resid 5 and name CB) 3.5 0.1 0.1
