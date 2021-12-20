@@ -1,0 +1,79 @@
+REMARK FILENAME="4ou3_peptide_164w.pdb0"
+REMARK ===============================================================
+REMARK HADDOCK run for 4ou3_peptide
+REMARK initial structure: 4ou3_peptide_164.pdb
+REMARK ===============================================================
+REMARK            total,bonds,angles,improper,dihe,vdw,elec,air,cdih,coup,rdcs,vean,dani,xpcs,rg
+REMARK energies: -55.4392, 0.468194, 1.58032, 0.333253, 0, 0.562721, -105.162, 25.9416, 0, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK            bonds,angles,impropers,dihe,air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK rms-dev.: 2.972181E-03,0.379616,0.275213,43.5211,0.564429,0,0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK               air,cdih,coup,rdcs,vean,dani,xpcs
+REMARK               >0.3,>5,>1,>0,>5,>0.2,>0.2
+REMARK violations.: 1, 0, 0, 0, 0, 0, 0
+REMARK ===============================================================
+REMARK                        CVpartition#,violations,rms
+REMARK AIRs cross-validation: 1, 0, NaN
+REMARK ===============================================================
+REMARK NCS energy: 0
+REMARK ===============================================================
+REMARK Symmetry energy: 0
+REMARK ===============================================================
+REMARK Membrane restraining energy: 0
+REMARK ===============================================================
+REMARK Local cross-correlation:  0.0000
+REMARK ===============================================================
+REMARK Desolvation energy: 0
+REMARK Internal energy free molecules: -81.3808
+REMARK Internal energy complex: -81.3808
+REMARK Binding energy: 0
+REMARK ===============================================================
+REMARK buried surface area: 0
+REMARK ===============================================================
+REMARK water - chain_1: 0 0 0
+REMARK ===============================================================
+REMARK water - water: 0 0 0
+REMARK ===============================================================
+REMARK DATE:08-Jul-2021  12:51:49       created by user: charitou
+REMARK VERSION:1.3U
+ATOM      1  N   CYS A   1      -3.798   2.665  -1.492  1.00 10.00      A    N  
+ATOM      3  CA  CYS A   1      -3.072   2.107  -0.359  1.00 10.00      A    C  
+ATOM      4  CB  CYS A   1      -2.827   3.177   0.704  1.00 10.00      A    C  
+ATOM      5  SG  CYS A   1      -1.890   4.607   0.122  1.00 10.00      A    S  
+ATOM      7  C   CYS A   1      -3.830   0.928   0.248  1.00 10.00      A    C  
+ATOM      8  O   CYS A   1      -4.691   1.106   1.113  1.00 10.00      A    O  
+ATOM      9  N   ASN A   2      -3.523  -0.269  -0.228  1.00 10.00      A    N  
+ATOM     11  CA  ASN A   2      -4.173  -1.479   0.269  1.00 10.00      A    C  
+ATOM     12  CB  ASN A   2      -5.134  -2.058  -0.778  1.00 10.00      A    C  
+ATOM     13  CG  ASN A   2      -6.406  -1.252  -0.927  1.00 10.00      A    C  
+ATOM     14  OD1 ASN A   2      -6.496  -0.358  -1.769  1.00 10.00      A    O  
+ATOM     15  ND2 ASN A   2      -7.404  -1.561  -0.114  1.00 10.00      A    N  
+ATOM     18  C   ASN A   2      -3.146  -2.530   0.671  1.00 10.00      A    C  
+ATOM     19  O   ASN A   2      -3.484  -3.540   1.289  1.00 10.00      A    O  
+ATOM     20  N   GLY A   3      -1.891  -2.281   0.330  1.00 10.00      A    N  
+ATOM     22  CA  GLY A   3      -0.838  -3.217   0.664  1.00 10.00      A    C  
+ATOM     23  C   GLY A   3       0.521  -2.552   0.724  1.00 10.00      A    C  
+ATOM     24  O   GLY A   3       1.210  -2.619   1.742  1.00 10.00      A    O  
+ATOM     25  N   ARG A   4       0.907  -1.906  -0.364  1.00 10.00      A    N  
+ATOM     27  CA  ARG A   4       2.196  -1.230  -0.428  1.00 10.00      A    C  
+ATOM     28  CB  ARG A   4       2.723  -1.174  -1.865  1.00 10.00      A    C  
+ATOM     29  CG  ARG A   4       4.119  -0.576  -1.995  1.00 10.00      A    C  
+ATOM     30  CD  ARG A   4       5.187  -1.542  -1.503  1.00 10.00      A    C  
+ATOM     31  NE  ARG A   4       5.202  -1.664  -0.047  1.00 10.00      A    N  
+ATOM     33  CZ  ARG A   4       5.163  -2.825   0.601  1.00 10.00      A    C  
+ATOM     34  NH1 ARG A   4       5.113  -3.967  -0.076  1.00 10.00      A    N  
+ATOM     37  NH2 ARG A   4       5.168  -2.843   1.922  1.00 10.00      A    N  
+ATOM     40  C   ARG A   4       2.110   0.176   0.150  1.00 10.00      A    C  
+ATOM     41  O   ARG A   4       2.915   0.550   1.003  1.00 10.00      A    O  
+ATOM     42  N   CYS A   5       1.126   0.938  -0.322  1.00 10.00      A    N  
+ATOM     44  CA  CYS A   5       0.917   2.319   0.117  1.00 10.00      A    C  
+ATOM     45  CB  CYS A   5       0.607   2.394   1.617  1.00 10.00      A    C  
+ATOM     46  SG  CYS A   5       0.276   4.061   2.238  1.00 10.00      A    S  
+ATOM     48  C   CYS A   5       2.108   3.203  -0.243  1.00 10.00      A    C  
+ATOM     49  O   CYS A   5       2.994   3.443   0.579  1.00 10.00      A    O  
+ATOM     50  N   GLY A   6       2.127   3.674  -1.480  1.00 10.00      A    N  
+ATOM     52  CA  GLY A   6       3.206   4.524  -1.941  1.00 10.00      A    C  
+ATOM     53  C   GLY A   6       3.367   4.450  -3.443  1.00 10.00      A    C  
+ATOM     54  O   GLY A   6       2.702   3.642  -4.099  1.00 10.00      A    O  
+END
