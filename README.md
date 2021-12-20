@@ -1,4 +1,4 @@
-Cyclic-peptide-docking-benchmark
+**Cyclic-peptide-docking-benchmark
 
 This is the docking benchmark described in the manuscript:
 'A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4'
