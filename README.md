@@ -1,13 +1,13 @@
-#Cyclic-peptide-docking-benchmark
+# Cyclic-peptide-docking-benchmark
 
 This is the docking benchmark described in the manuscript:
 'A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4'
 To be published. 
 
-Content:
-Dataset directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
+## Content 
+Here you can find the Dataset directory composed of sub-directories corresponding to each peptide and complex of the cyclic peptide benchmark. This directory also contains the required scripts for the analysis.
 	
-	a. Each complex sub-directory contains: 
+### Each complex sub-directory contains: 
 
 		HADDOCK-ready files:
 		∙ 'XXX_r_b.pdb': Bound receptor PDB with renumbered atoms and renamed chain ID
@@ -24,7 +24,7 @@ Dataset directory composed of sub-directories corresponding to each peptide and 
 		∙ 'ambig.tbl': Ambiguous interaction restraints
 		∙ 'hbonds.tbl': Unambiguous restraints
 
-	b. Each peptide sub-directory contains:
+### Each peptide sub-directory contains:
 
 		HADDOCK-ready files:
 		∙ 'peptide_beta.pdb': Pymol generated PDB with ligand in a beta-sheet conformation
