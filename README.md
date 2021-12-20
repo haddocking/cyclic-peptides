@@ -12,10 +12,13 @@ DOI: ..(link)..
 ## Content 
 In this repository you can find the Dataset directory which contains:
 
-* All 30 complexes used in this study listed according to their PDB ID 
+* 30 `XXXX_complex` folders listed according to their PDB ID containing the files used for docking
+* 30 `XXXX_peptide` folders listed according to the complex PDB ID containing:
+	* Input peptide conformations for Step 1
+	* Output peptide conformations for Step 3 (50 structures)
 * `setup-analysis_example.csh` A script to run the Fnat (and i-RMSD) analysis 
 
-### Each complex folder contains: 
+### Each `XXXX_complex` folder contains: 
 
 * HADDOCK-ready files:
 	* `XXX_r_b.pdb` Bound receptor PDB with renumbered atoms and renamed chain ID
@@ -32,7 +35,7 @@ In this repository you can find the Dataset directory which contains:
 	* `cluster-fnat.csh` `fraction-native.csh` `i-rmsd_to_xray.csh` `l-rmsd_to_xray.csh` `run_all-no-it0.csh` `make-target-files.csh` `run_all.csh` `run_all-dockQ.csh` `run_dockQ.csh` All required scripts for the analysis
 	* `target.contacts10` `target.izoneA` `target.contacts5` `target.izoneB` `target.izone` `target.lzone` All required files for the analysis: 
 
-### Each peptide folder contains:
+### Each `XXXX_peptide` folder contains:
 
 * HADDOCK-ready files:
 	* `peptide_beta.pdb` Pymol generated PDB with ligand in a beta-sheet conformation
@@ -45,4 +48,4 @@ In this repository you can find the Dataset directory which contains:
 	* `unambig.tbl` Unambiguous cyclisation restrains
 
 ## Docking results 
-Results of the 50STR_COMB protocol can be found on SGgrid ..(link)..
+Results of the 50STR_COMB docking protocol can be found on SGgrid ..(link)..
