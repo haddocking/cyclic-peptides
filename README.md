@@ -48,4 +48,4 @@ In this repository you can find the Dataset directory which contains:
 	* `unambig.tbl` Unambiguous cyclisation restrains
 
 ## 2. Docking results 
-Results of the 50STR_COMB docking protocol can be found on SGgrid ..(link)..
+Results of the 50STR_COMB docking protocol can be found on SBGrid ..(link)..
