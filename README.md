@@ -6,8 +6,10 @@
 
 This is the docking benchmark described in the manuscript:
 'A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4'
+Vicky Charitou, Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
-DOI: ..(link)..
+DOI: https://doi.org/10.1021/acs.jctc.2c00075
+
 
 ## 1. Content 
 In this repository you can find the Dataset directory which contains:
