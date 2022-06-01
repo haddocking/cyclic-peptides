@@ -2,10 +2,12 @@
 
 # Cyclic-peptide-docking-benchmark
 
+[![DOI](https://zenodo.org/badge/433746674.svg)](https://zenodo.org/badge/latestdoi/433746674)
+
 ![This is an image](https://github.com/haddocking/cyclic-peptides/blob/main/cyclic_peptide_banner.png)
 
 This is the docking benchmark described in the manuscript:
-'A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4'
+_A Cyclisation and Docking Protocol for Cyclic Peptide Modeling using HADDOCK2.4_
 Vicky Charitou, Siri Camee van Keulen, Alexandre M.J.J. Bonvin
 
 DOI: https://doi.org/10.1021/acs.jctc.2c00075
