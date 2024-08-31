@@ -22,6 +22,9 @@ In this repository you can find the Dataset directory which contains:
 	* Output peptide conformations for Step 3 (50 structures)
 * `setup-analysis_example.csh` A script to run the Fnat (and i-RMSD) analysis 
 
+The list of peptides for the cyclic backone and disulphide bridge cyclic peptide sets
+can be found in the `backbone-dataset.tsv` and `disulphide-dataset.tsv` files
+
 ### 1.1. Each `XXXX_complex` folder contains: 
 
 * HADDOCK-ready files:
